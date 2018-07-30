@@ -126,3 +126,48 @@ nav li.border1{
     border-right: 1px solid #cccccc;
     padding-right: 20px;
 }
+
+.contentContainer {
+    margin: 50px 240px 50px 240px;
+    padding: 10px;
+    height: 470px;
+    border: 2px solid #dddddd;
+    background: #ffffff;
+    color: #777777;
+    
+
+}
+
+.contetHeadding {
+    color: #4aaaa5;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+hr {
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: #dddddd;
+    margin-bottom: 20px;
+}
+
+.imgParCont {
+    height: 175px;
+    line-height: 2;
+    font-size: 17.8px;
+    margin-bottom: 30px;
+}
+
+.godDog {
+    float: left;
+    margin-right: 15px; 
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+
+}
+
+.paraG {
+    line-height: 2;
+    font-size: 17.8px;
+    margin-bottom: 27px;
+}
