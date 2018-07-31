@@ -131,7 +131,7 @@ nav li.border1{
     margin: 50px 240px 50px 240px;
     padding: 10px;
     height: 470px;
-    border: 2px solid #dddddd;
+    border: 1px solid #dddddd;
     background: #ffffff;
     color: #777777;
     
@@ -148,7 +148,7 @@ hr {
     border-width: 1.5px;
     border-style: solid;
     border-color: #dddddd;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .imgParCont {
