@@ -42,6 +42,11 @@ a:active {
     color: #f79a9a;
     text-decoration: none;
 }
+
+.onIt {
+    background: #dddddd;
+}
+
 .content {
     flex: 1 0 auto;
 }
