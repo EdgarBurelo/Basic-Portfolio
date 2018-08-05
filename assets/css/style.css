@@ -44,7 +44,7 @@ a:active {
 }
 
 .onIt {
-    color: blue;
+    background: #cccccc;
 }
 
 .content {
@@ -218,6 +218,77 @@ textarea{
     border-style: none;
     color: #ffffff;
     font-size: 1em;
+}
 
+/* .nameList {
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 150px;
+    padding: 7.5px 0;
+    height: 15px;
+    opacity: 0.7;   
+    position: static;
+    
+}
 
+.portList{
+    height: 150px;
+    width: 150px;
+    
+    
+}
+
+.liList {
+    position: relative;
+    display: table-row;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+} */
+
+.imagContainter {
+    position: relative;
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.textContainer {
+    position: relative;
+    text-align: center;
+    height: 15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 7.5px 0;
+    opacity: .8;
+    top: 100px;
+
+}
+
+.img1 {
+    background: url(../images/hangman.png) no-repeat;
+    background-size: 150px 150px;
+}
+
+.img2 {
+    background: url(../images/game.png) no-repeat;
+    background-size: 150px 150px;
+}
+
+.img3 {
+    background: url(../images/trivia.png) no-repeat;
+    background-size: 150px 150px;
+}
+
+.img4 {
+    background: url(../images/widgets.png) no-repeat;
+    background-size: 150px 150px;
+}
+
+.img5 {
+    background: url(../images/Monopoly.png) no-repeat;
+    background-size: 150px 150px;
 }
