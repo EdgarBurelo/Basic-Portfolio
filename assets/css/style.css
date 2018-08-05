@@ -220,33 +220,6 @@ textarea{
     font-size: 1em;
 }
 
-/* .nameList {
-    background: #4aaaa5;
-    color: #ffffff;
-    text-align: center;
-    width: 150px;
-    padding: 7.5px 0;
-    height: 15px;
-    opacity: 0.7;   
-    position: static;
-    
-}
-
-.portList{
-    height: 150px;
-    width: 150px;
-    
-    
-}
-
-.liList {
-    position: relative;
-    display: table-row;
-    margin: 0;
-    padding: 0;
-    color: #ffffff;
-} */
-
 .imagContainter {
     position: relative;
     float: left;
