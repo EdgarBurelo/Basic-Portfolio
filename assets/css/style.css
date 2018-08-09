@@ -209,6 +209,7 @@ input {
 
 textarea{
     padding-top: 5px;
+    resize: none;
 }
 
 .btnSubmit {
